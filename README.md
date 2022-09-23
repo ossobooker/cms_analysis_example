@@ -18,7 +18,7 @@ https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideLcgAccess
 ### Get the code
 
 Download or clone (HTTPS) or clone (SSH)
-```wget https://github.com/ftorresd/pyroot_example_nanoaod/archive/refs/heads/main.zip
+```wget https://github.com/ossobooker/cms_analysis_example/archive/refs/heads/main.zip
 unzip main.zip
 cd pyroot_example_nanoaod-main
 ```
@@ -26,13 +26,13 @@ cd pyroot_example_nanoaod-main
 or
 
 ```
-git clone https://github.com/ftorresd/pyroot_example_nanoaod.git
+git clone https://github.com/ossobooker/cms_analysis_example.git
 ```
 
 or
 
 ```
-git clone git@github.com:ftorresd/pyroot_example_nanoaod.git
+git clone git@github.com:ossobooker/cms_analysis_example.git
 ```
 
 ### Setup 
